@@ -1,3 +1,30 @@
 h1 {
     color:brown;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;
+    background-color: bisque;
+}
+p {
+    color:rgb(156, 68, 68)
+}
+body{
+    background-image: url( ../images/simple.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(37, 31, 31, 0.6);
+}
+.quote2 {
+    background-color: rgb(245, 245, 220, 0.5);
+}
+footer{
+    color:orange
 }
